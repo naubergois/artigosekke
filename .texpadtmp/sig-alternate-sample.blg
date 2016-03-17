@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sig-alternate-sample.aux
+The style file: ../latex8.bst
+Database file #1: ../sample.bib
+Warning--empty journal in Canfora
+Warning--empty year in Canfora
+Warning--empty journal in Garousi2006
+Warning--there's a number but no volume in Garousi2006
+Warning--empty school in Jiang2010
+Warning--there's a number but no volume in Pohlheim2005
+Warning--empty journal in Sullivan
+Warning--empty year in Sullivan
+Warning--empty journal in Tracey1998
+You've used 28 entries,
+            2118 wiz_defined-function locations,
+            671 strings with 9207 characters,
+and the built_in function-call counts, 9008 in all, are:
+= -- 885
+> -- 436
+< -- 7
++ -- 173
+- -- 144
+* -- 598
+:= -- 1521
+add.period$ -- 83
+call.type$ -- 28
+change.case$ -- 154
+chr.to.int$ -- 0
+cite$ -- 37
+duplicate$ -- 364
+empty$ -- 659
+format.name$ -- 144
+if$ -- 1861
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 27
+newline$ -- 142
+num.names$ -- 56
+pop$ -- 167
+preamble$ -- 1
+purify$ -- 128
+quote$ -- 0
+skip$ -- 269
+stack$ -- 0
+substring$ -- 474
+swap$ -- 86
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 110
+warning$ -- 9
+while$ -- 87
+width$ -- 30
+write$ -- 293
+(There were 9 warnings)

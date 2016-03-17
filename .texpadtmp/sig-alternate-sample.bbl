@@ -1,0 +1,170 @@
+\begin{thebibliography}{10}\setlength{\itemsep}{-1ex}\small
+
+\bibitem{Afzal2009a}
+W.~Afzal, R.~Torkar, and R.~Feldt.
+\newblock {A systematic review of search-based testing for non-functional
+  system properties}.
+\newblock {\em Information and Software Technology}, 51(6):957--976, 2009.
+
+\bibitem{Alander}
+J.~T.~J. Alander, T.~Mantere, and P.~Turunen.
+\newblock {Genetic Algorithm Based Software Testing}.
+\newblock In {\em Neural Nets and Genetic Algorithms}, 1998.
+
+\bibitem{Alesio2015}
+S.~D.~I. Alesio, L.~C. Briand, S.~Nejati, and A.~Gotlieb.
+\newblock {Combining Genetic Algorithms and Constraint Programming}.
+\newblock {\em ACM Transactions on Software Engineering and Methodology},
+  25(1), 2015.
+
+\bibitem{Babbar2011}
+C.~Babbar, N.~Bajpai, and D.~Sarmah.
+\newblock {Web Application Performance Analysis based on Component Load
+  Testing}.
+\newblock {\em International Journal of Technology}, 2011.
+
+\bibitem{Barna2011}
+C.~Barna, M.~Litoiu, and H.~Ghanbari.
+\newblock {Autonomic load-testing framework}.
+\newblock {\em International conference on Autonomi}, pages 91--100, 2011.
+
+\bibitem{Briand2005}
+L.~C. Briand, Y.~Labiche, and M.~Shousha.
+\newblock {Stress testing real-time systems with genetic algorithms}.
+\newblock {\em Proceedings of the 2005 conference on Genetic and evolutionary
+  computation - GECCO '05}, page 1021, 2005.
+
+\bibitem{Canfora}
+G.~Canfora, M.~D. Penta, R.~Esposito, and M.~L. Villani.
+\newblock {2005., Canfora, G., An approach for QoS-aware service composition
+  based on genetic algorithms}.
+
+\bibitem{DiAlesio2013}
+S.~{Di Alesio}, S.~Nejati, L.~Briand, and A.~Gotlieb.
+\newblock {Stress testing of task deadlines: A constraint programming
+  approach}.
+\newblock {\em IEEE Xplore}, pages 158--167, 2013.
+
+\bibitem{DiAlesio2014}
+S.~{Di Alesio}, S.~Nejati, L.~Briand, and A.~Gotlieb.
+\newblock {Worst-Case Scheduling of Software Tasks -- A Constraint Optimization
+  Model to Support Performance Testing}.
+\newblock {\em Principles and Practice of Constraint Programming}, pages
+  813--830, 2014.
+
+\bibitem{Draheim2006b}
+D.~Draheim, J.~Grundy, J.~Hosking, C.~Lutteroth, and G.~Weber.
+\newblock {Realistic load testing of Web applications}.
+\newblock In {\em Conference on Software Maintenance and Reengineering
+  (CSMR'06)}, 2006.
+
+\bibitem{Garousi2006}
+V.~Garousi.
+\newblock {Traffic-aware Stress Testing of Distributed Real-Time Systems based
+  on UML Models using Genetic Algorithms}.
+\newblock (August), 2006.
+
+\bibitem{Garousi2008}
+V.~Garousi.
+\newblock {Empirical analysis of a genetic algorithm-based stress test
+  technique}.
+\newblock {\em Proceedings of the 10th annual conference on Genetic and
+  evolutionary computation - GECCO '08}, page 1743, 2008.
+
+\bibitem{Garousi2010}
+V.~Garousi.
+\newblock {A Genetic Algorithm-Based Stress Test Requirements Generator Tool
+  and Its Empirical Evaluation}.
+\newblock {\em IEEE Transactions on Software Engineering}, 36(6):778--797, Nov.
+  2010.
+
+\bibitem{Gross2000}
+H.~Gross, B.~F. Jones, and D.~E. Eyres.
+\newblock {Structural performance measure of evolutionary testing applied to
+  worst-case timing of real-time systems}.
+\newblock {\em Software, IEE Proceedings-}, 147(2):25--30, 2000.
+
+\bibitem{J.WegenerK.GrimmM.GrochtmannH.Sthamer1996}
+B.~J. {J. Wegener, K. Grimm, M. Grochtmann, H. Sthamer}.
+\newblock {Systematic testing of real-time systems}.
+\newblock {\em EuroSTAR'96: Proceedings of the Fourth International Conference
+  on Software Testing Analysis and Review}, 1996.
+
+\bibitem{Jiang2010}
+Z.~Jiang.
+\newblock {\em {Automated analysis of load testing results}}.
+\newblock PhD thesis, 2010.
+
+\bibitem{Molyneaux2009}
+I.~Molyneaux.
+\newblock {\em {The Art of Application Performance Testing: Help for
+  Programmers and Quality Assurance}}.
+\newblock "O'Reilly Media, Inc.", 1st edition, Jan. 2009.
+
+\bibitem{Mueller1998}
+F.~Mueller and J.~Wegener.
+\newblock {A comparison of static analysis and evolutionary testing for the
+  verification of timing constraints}.
+\newblock {\em Proceedings. Fourth IEEE Real-Time Technology and Applications
+  Symposium (Cat. No.98TB100245)}, 1998.
+
+\bibitem{Penta2007}
+M.~D. Penta, G.~Canfora, and G.~Esposito.
+\newblock {Search-based testing of service level agreements}.
+\newblock In {\em Proceedings of the 9th annual conference on Genetic and
+  evolutionary computation}, pages 1090--1097, 2007.
+
+\bibitem{Pohlheim2005}
+H.~Pohlheim, M.~Conrad, and A.~Griep.
+\newblock {Evolutionary Safety Testing of Embedded Control Software by
+  Automatically Generating Compact Test Data Sequences}.
+\newblock {\em Analysis}, (724):804----814, 2005.
+
+\bibitem{Puchinger2005}
+J.~Puchinger and R.~Raidl.
+\newblock {Combining Metaheuristics and Exact Algorithms in Combinatorial
+  Optimization : A Survey and Classification}.
+\newblock {\em Artificial Intelligence and Knowledge Engineering Applications a
+  Bioinspired Approach}, 3562:41--53, 2005.
+
+\bibitem{Puschner1998}
+P.~Puschner and R.~Nossal.
+\newblock {Testing the results of static worst-case execution-time analysis}.
+\newblock {\em Proceedings 19th IEEE Real-Time Systems Symposium (Cat.
+  No.98CB36279)}, 1998.
+
+\bibitem{Sullivan}
+M.~O. Sullivan, S.~V\"{o}ssner, J.~Wegener, and D.-b. Ag.
+\newblock {Testing Temporal Correctness of Real-Time Systems --- A New Approach
+  Using Genetic Algorithms and Cluster Analysis ---}.
+\newblock pages 1--20.
+
+\bibitem{tracey2000search}
+N.~J. Tracey.
+\newblock {\em A search-based automated test-data generation framework for
+  safety-critical software}.
+\newblock PhD thesis, Citeseer, 2000.
+
+\bibitem{Tracey1998}
+N.~J. Tracey, J.~a. Clark, and K.~C. Mander.
+\newblock {Automated Programme Flaw Finding using Simulated Annealing}.
+\newblock 1998.
+
+\bibitem{Wegener1998}
+J.~Wegener and M.~Grochtmann.
+\newblock {Verifying timing constraints of real-time systems by means of
+  evolutionary testing}.
+\newblock {\em Real-Time Systems}, 15(3):275--298, 1998.
+
+\bibitem{Wegener1997}
+J.~Wegener, H.~Sthamer, B.~F. Jones, and D.~E. Eyres.
+\newblock {Testing real-time systems using genetic algorithms}.
+\newblock {\em Software Quality Journal}, 6(2):127--135, 1997.
+
+\bibitem{Stations}
+H.~{Wegener, Joachim and Pitschinetz, Roman and Sthamer}.
+\newblock {Automated Testing of Real-Time Tasks}.
+\newblock {\em Proceedings of the 1st International Workshop on Automated
+  Program Analysis, Testing and Verification (WAPATV'00)}, 2000.
+
+\end{thebibliography}
